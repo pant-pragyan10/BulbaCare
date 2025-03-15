@@ -6,7 +6,7 @@
 
 ## Overview
 
-Bulba Care is an AI-driven healthcare platform designed for multi-disease detection and athlete injury management. It provides a seamless experience for users by offering real-time AI-based medical analysis, mental health support, and direct doctor consultations.
+Bulba Care is an AI-driven healthcare platform designed for multi-disease detection t. It provides a seamless experience for users by offering real-time AI-based medical analysis, mental health support, and direct doctor consultations.
 
 ## Key Features
 
