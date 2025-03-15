@@ -26,7 +26,7 @@ Bulba Care is an AI-driven healthcare platform designed for multi-disease detect
 
    👩‍⚕️ Encourages professional medical consultation when needed.
 
-### 4. Doctor Consultation & Directory
+### 3. Doctor Consultation & Directory
 
    🔍 Find and connect with nearby doctors for professional help.
 
@@ -34,7 +34,7 @@ Bulba Care is an AI-driven healthcare platform designed for multi-disease detect
 
    💳 Users pay for direct consultations through the platform.
 
-## What Makes Bulba Care Unique?
+## What Makes BulbaCare Unique?
 
 ✅ Multi-Disease Analysis – Covers skin, eye, and mental health issues in one platform.
 
@@ -43,8 +43,6 @@ Bulba Care is an AI-driven healthcare platform designed for multi-disease detect
 ## Target Users
 
 🔹Individuals seeking early disease detection.
-
-🔹Athletes looking for real-time injury insights & peer support.
 
 🔹People in need of mental health assistance.
 
