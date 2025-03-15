@@ -1,69 +1,71 @@
-# Welcome to your Lovable project
+# Bulba Care
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/37ebf5ba-cdb2-4413-8f88-4e98378470a0
 
-## How can I edit this code?
+## Overview
 
-There are several ways of editing your application.
+Bulba Care is an AI-driven healthcare platform designed for multi-disease detection and athlete injury management. It provides a seamless experience for users by offering real-time AI-based medical analysis, mental health support, and direct doctor consultations.
 
-**Use Lovable**
+## Key Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/37ebf5ba-cdb2-4413-8f88-4e98378470a0) and start prompting.
+### 1. AI-Based Disease Detection (Skin & Eye)
 
-Changes made via Lovable will be committed automatically to this repo.
+   🔹 Users upload an image of the affected area.
 
-**Use your preferred IDE**
+   🔹 AI model detects potential diseases, predicts severity, and suggests temporary solutions.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+   🔹 Ensures appropriate messaging for non-disease or irrelevant images.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 2. Mental Health Chatbot
 
-Follow these steps:
+  🧠 Provides mental health support and self-care guidance.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+   💬 Engages users in conversations and suggests remedies.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+   👩‍⚕️ Encourages professional medical consultation when needed.
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 3. Real-Time Athlete Injury Detection & Community Support
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+   🏃‍♂️ Detects and analyzes sports-related injuries using AI & Pathway.
 
-**Edit a file directly in GitHub**
+   📊 Recommends RL-based treatment price optimization.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+   🤝 P2P athlete community where users can share injuries and get advice from fellow athletes.
 
-**Use GitHub Codespaces**
+### 4. Doctor Consultation & Directory
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+   🔍 Find and connect with nearby doctors for professional help.
 
-## What technologies are used for this project?
+   💼 Doctors can enlist/register for paid listings.
 
-This project is built with .
+   💳 Users pay for direct consultations through the platform.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## What Makes Bulba Care Unique?
 
-## How can I deploy this project?
+✅ Multi-Disease Analysis – Covers skin, eye, and mental health issues in one platform.
 
-Simply open [Lovable](https://lovable.dev/projects/37ebf5ba-cdb2-4413-8f88-4e98378470a0) and click on Share -> Publish.
+✅ AI Severity Prediction – High, medium, or low emergency classification for better action.
 
-## I want to use a custom domain - is that possible?
+✅ P2P Athlete Chatbot – Connects athletes facing similar injuries for real-time discussions.
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+✅ Treatment Cost Optimization – Uses RL-based models to recommend cost-effective treatments.
+
+## Target Users
+
+🔹Individuals seeking early disease detection.
+
+🔹Athletes looking for real-time injury insights & peer support.
+
+🔹People in need of mental health assistance.
+
+🔹Doctors who want to expand their reach through digital consultation.
+
+![1](https://github.com/user-attachments/assets/5e3ca6c4-ced9-496e-93fa-38561516f02c)
+![2](https://github.com/user-attachments/assets/21115f8b-d269-4a5b-bdd6-dea9720da026)
+![3](https://github.com/user-attachments/assets/8d397ee0-bc62-4d70-994f-692ffd13fd24)
+![4](https://github.com/user-attachments/assets/1b8082bd-12f6-416c-b3de-2f14768b1cf1)
+![5](https://github.com/user-attachments/assets/95a2b480-08e0-4af2-aed3-900a1345e6e2)
+![6](https://github.com/user-attachments/assets/b4dcc5f7-60ec-4388-96dd-dd4c4b209223)
+![7](https://github.com/user-attachments/assets/12d7df1c-8692-4f50-a9f4-64195f156a9d)
