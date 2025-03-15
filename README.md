@@ -26,14 +26,6 @@ Bulba Care is an AI-driven healthcare platform designed for multi-disease detect
 
    👩‍⚕️ Encourages professional medical consultation when needed.
 
-### 3. Real-Time Athlete Injury Detection & Community Support
-
-   🏃‍♂️ Detects and analyzes sports-related injuries using AI & Pathway.
-
-   📊 Recommends RL-based treatment price optimization.
-
-   🤝 P2P athlete community where users can share injuries and get advice from fellow athletes.
-
 ### 4. Doctor Consultation & Directory
 
    🔍 Find and connect with nearby doctors for professional help.
@@ -47,10 +39,6 @@ Bulba Care is an AI-driven healthcare platform designed for multi-disease detect
 ✅ Multi-Disease Analysis – Covers skin, eye, and mental health issues in one platform.
 
 ✅ AI Severity Prediction – High, medium, or low emergency classification for better action.
-
-✅ P2P Athlete Chatbot – Connects athletes facing similar injuries for real-time discussions.
-
-✅ Treatment Cost Optimization – Uses RL-based models to recommend cost-effective treatments.
 
 ## Target Users
 
