@@ -2,17 +2,18 @@
 
 ## Overview
 
-Bulba Care is an AI-driven healthcare platform designed for multi-disease detection t. It provides a seamless experience for users by offering real-time AI-based medical analysis, mental health support, and direct doctor consultations.
+Bulba Care is an AI-driven healthcare platform designed for multi-disease detection. It provides a seamless experience for users by offering real-time AI-based medical analysis, mental health support, and direct doctor consultations.
 
 
 
-![1](https://github.com/user-attachments/assets/5e3ca6c4-ced9-496e-93fa-38561516f02c)
-![2](https://github.com/user-attachments/assets/21115f8b-d269-4a5b-bdd6-dea9720da026)
-![3](https://github.com/user-attachments/assets/8d397ee0-bc62-4d70-994f-692ffd13fd24)
-![4](https://github.com/user-attachments/assets/1b8082bd-12f6-416c-b3de-2f14768b1cf1)
-![5](https://github.com/user-attachments/assets/95a2b480-08e0-4af2-aed3-900a1345e6e2)
-![6](https://github.com/user-attachments/assets/b4dcc5f7-60ec-4388-96dd-dd4c4b209223)
-![7](https://github.com/user-attachments/assets/12d7df1c-8692-4f50-a9f4-64195f156a9d)
+![1](https://github.com/user-attachments/assets/b9486dd9-3f88-4be6-8b72-16013ece2de0)
+![2](https://github.com/user-attachments/assets/365684a6-1503-4cdd-8660-765f5c4c7ee5)
+![3](https://github.com/user-attachments/assets/87919559-7ac9-428a-be92-da3537d6887f)
+![4](https://github.com/user-attachments/assets/abd9313b-1510-4e68-bd9f-4c4cd2eb97fa)
+![5](https://github.com/user-attachments/assets/dd65af78-8a03-4dec-ad8e-e9fc25c232ea)
+
+
+
 
 ## Key Features
 
